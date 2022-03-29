@@ -6,6 +6,8 @@ The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/815
 
 ## Schedule for Sommer Semester 2022
 
+(L) Lectures; (T) Tutorials; (P) Project
+
 | Date      | Slot 13:30h                              | Slot 15:15h                              | DIS25a (DIS B.Sc.) | NLP (DS M.Sc.) |
 |-----------|------------------------------------------|------------------------------------------|--------------------|----------------|
 | 1.4.2022  | Introduction and Overview (L)            | Basic Text Processing (L)                | x                  | x              |
