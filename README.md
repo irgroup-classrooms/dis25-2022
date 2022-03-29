@@ -2,6 +2,8 @@
 
 This course can be taken for the Bachelor Programm Data and Information Science (DIS25a) or the Master Program Digital Sciences (NLP).
 
+The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/81513492081. The password for Zoom is the ZIP code of TH Köln @ Claudiusstraße 1. The sessions will be held life. Slides will be usually available a night before the actual lecture. We try to record all lectures and tutorials for later referal.
+
 ## Schedule for Sommer Semester 2022
 
 | Date      | Slot 13:30h                              | Slot 15:15h                              | DIS25a (DIS B.Sc.) | NLP (DS M.Sc.) |
