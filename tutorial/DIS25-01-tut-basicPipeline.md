@@ -1,7 +1,7 @@
 # Tutorial 1: Basic NLP Pipeline
 The goal of the first tutorial is to create an NLP pipeline and get familiar with the common NLP modules. You will be able to handle most of the tasks with pandas as well as the nltk module, which are the basis for many NLP projects. Please use a (Jupyter) notebook for your code, for keeping things clean, performative and easy to annotate. Believe me, it's worth the extra effort!
 
-We will NOT post "ideal solutions" to the tutorials, instead, we will "live code" a solution in the tutorial session and talk about the hows and whys. To get the most benefits from our sessions, be prepared and try to solve everything beforehand, good questions and your input will contribute significantly to the quality of the tutorials!
+We will post "ideal solutions" to the tutorials, but the "live coding" of a solution in the tutorial session and talking about the hows and whys will only benefit you if you are prepared. To get the most from our sessions, try to solve everything beforehand, good questions and your input will contribute significantly to the quality of the tutorials!
 
 ## How to find Information
 Since you will not directly be able to solve all tasks just from what we provide in the lectures, we will provide you with some relevant materials and online-tutorials. Don't worry if you cannot solve a task; ask in the GitHub discussion forum or wait until we talk about it in the tutorial session.
