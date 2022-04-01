@@ -8,6 +8,8 @@ The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/815
 
 (L) Lectures; (T) Tutorials; (P) Project
 
+[Lectures and tutorial are recorded and available online](https://th-koeln.sciebo.de/s/Col70bcubHhymJx). The password is the same as for the Zoom sessions. 
+
 | Date      | Slot 13:30h                              | Slot 15:15h                              | DIS25a (DIS B.Sc.) | NLP (DS M.Sc.) |
 |-----------|------------------------------------------|------------------------------------------|--------------------|----------------|
 | 1.4.2022  | [Introduction and Overview](slides/DIS25-01-Introduction.pdf) (L)            | [Basic Text Processing](slides/DIS25-02-BasicTextProcessing.pdf) (L)                | x                  | x              |
