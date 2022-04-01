@@ -10,7 +10,7 @@ The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/815
 
 | Date      | Slot 13:30h                              | Slot 15:15h                              | DIS25a (DIS B.Sc.) | NLP (DS M.Sc.) |
 |-----------|------------------------------------------|------------------------------------------|--------------------|----------------|
-| 1.4.2022  | Introduction and Overview (L)            | Basic Text Processing (L)                | x                  | x              |
+| 1.4.2022  | [Introduction and Overview](slides/DIS25-01-Introduction.pdf) (L)            | [Basic Text Processing](slides/DIS25-02-BasicTextProcessing.pdf) (L)                | x                  | x              |
 | 8.4.2022  | Standard NLP Pipelines (T)               | Common Toolkits: Spacy, NLTK (T)         | x                  | x              |
 | 15.4.2022 | _no lecture_                             |                                          |                    |                |
 | 22.4.2022 | WordNet (L)                              | Vector Semantics (L)                     | x                  | x              |
