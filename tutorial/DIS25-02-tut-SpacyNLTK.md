@@ -55,13 +55,15 @@ Remove all English stopwords from the generated tokens. Use Spacy.
 ### 3.4 POS Tagging
 Determine POS tags for the tokenized texts and store them in a "pos" column. Again, use Spacy.
 
-
 ### 3.5 Lemmatization
 Lemmatize the tokens of the texts and store the specific lemmas in a column "lemmata". Use the Spacy Lemmatizer.
+
+### 3.6 Entity Recognition
+Using Spacy, find the Entities in each joke and save them in a seperate column (text or object).
 
 ## 4: How was that?
 What do you think? How was working with Spacy compared to working with NLTK? Prepare some thoughts to share in out tutorial!
 
-## 5 Bonus
+## 5: Bonus
 
 Play around with some more Spacy functionalties! Feel free to show us what you did in the tutorial!
