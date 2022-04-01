@@ -3,10 +3,23 @@ The goal of the first tutorial is to create an NLP pipeline and get familiar wit
 
 We will NOT post "ideal solutions" to the tutorials, instead, we will "live code" a solution in the tutorial session and talk about the hows and whys. To get the most benefits from our sessions, be prepared and try to solve everything beforehand, good questions and your input will contribute significantly to the quality of the tutorials!
 
-## Aufgabe 1: Installation and Import
-### 1.1: Installation and Import of NLP Modules
+## How to find Information
+Since you will not directly be able to solve all tasks just from what we provide in the lectures, we will provide you with some relevant materials and online-tutorials. Don't worry if you cannot solve a task; ask in the GitHub discussion forum or wait until we talk about it in the tutorial session.
 
-Make sure that the required modules "pandas", "numpy", "nltk", "sklearn", "spacy" and "re" are imported and get the version numbers of the modules. 
+### Python 
+If you need a little refreshment of your Python skills or want to quickly find well-structured information on certain aspects of Python, check out the tutorials and documentation on [W3 Schools](https://www.w3schools.com/python/default.asp). 
+
+### Pandas 
+Pandas is THE tool for tabular data in python. It comes with a lot of useful features, but is not always self-explanatory. However, there is an accelent [documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html) and a superb [tutorial](https://www.w3schools.com/python/pandas/default.asp) on Pandas, and we reccomend to check both out, especially the first few lessens of the tutorial! 
+
+### NLTK
+NLTK, the natural language toolkit, as the name suggests, provides virtually everything you need for natural language processing in python. Although Spacy gets more popular quickly, NLTK is still the most used module for most preprocessing and analysis tasks. Find the documentation on the [official website](https://www.nltk.org/), but thanks to the popularity, almost every problem was already discussed and every question answered somewhere on the internet and almost always, a google search for a description of a problem or an error message leads to a solution. 
+
+
+## 1: Installation and Import
+### 1.1 Installation and Import of NLP Modules
+
+Make sure that the required modules "pandas", "numpy", "nltk", "sklearn", "spacy" and "re" are imported and get the version numbers of the modules.
 
 Hint: Use <code>! pip install NAMEOFMODULE</code> to run command line / shell commands from your python jupyter notebook and install modules without having to use your terminal. 
 
@@ -20,10 +33,10 @@ Read in the attached .json files as pandas dataframes and merge them into a sing
 
 ## 3: Data Preprocessing
 As is very often the case with crawled data, the data from the different sources are very differently sourced and tagged. 
-### 3.1: Clean up text
+### 3.1 Clean up text
 Prepare the data so that the "body" column contains the entire text of the joke and that no format tokens (e.g. "\n") are included.
 
-### 3.2: Tokenization
+### 3.2 Tokenization
 Use the nltk module to tokenize the jokes. Use the RegexpTokenizer of the nltk module to take only tokens from words and numbers (no punctuation marks) with a suitable regular expression. The tokens should contain only small letters. Save the results in a column "tokens".
 
 ### 3.3 Stopword removal
@@ -41,7 +54,7 @@ BONUS: Consider the word forms of the tokens during the lemmatization.
 ### 3.6 Frequencies
 Add in a new column "frequencies" the frequency distributions of the lemmatized tokens for each text.
 
-## 4 Data Analysis
+## 4: Data Analysis
 ### 4.1 Overview of topics
 For the jokes crawled by Stupidstuff and Wocker, output the categories as a list.
 
