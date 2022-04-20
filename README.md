@@ -2,7 +2,7 @@
 
 This course can be taken for the Bachelor Programm Data and Information Science (DIS25a) or the Master Program Digital Sciences (NLP).
 
-The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/81513492081. The password for Zoom is the ZIP code of TH Köln @ Claudiusstraße 1. The sessions will be held life. Slides will be usually available a night before the actual lecture. We try to record all lectures and tutorials for later referal.
+After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The sessions will be held life. Slides will be usually available a night before the actual lecture. We try to record all lectures and tutorials for later referal (not sure how this works out with the sessions at Claudiusstraße).
 
 ## Schedule for Sommer Semester 2022
 
@@ -15,7 +15,7 @@ The sessions until easter will be hosted on Zoom: https://th-koeln.zoom.us/j/815
 | 1.4.2022  | [Introduction and Overview](slides/DIS25-01-Introduction.pdf) (L)            | [Basic Text Processing](slides/DIS25-02-BasicTextProcessing.pdf) (L)                | x                  | x              |
 | 8.4.2022  | [Basic NLP Pipeline: NLTK](tutorial/DIS25-01-tut-basicPipeline.md) (T) [(solution)](tutorial/DIS25_1_solution.ipynb)              | [Common Toolkit: Spacy](tutorial/DIS25-02-tut-SpacyNLTK.md) (T) [(solution)](tutorial/DIS25_2_solution.ipynb)         | x                  | x              |
 | 15.4.2022 | _no lecture_                             |                                          |                    |                |
-| 22.4.2022 | WordNet (L)                              | Vector Semantics (L)                     | x                  | x              |
+| 22.4.2022 | [WordNet](slides/DIS25-03-WordNet.pdf) (L) | [Vector Semantics](slides/DIS25-04-VectorSemantics.pdf) (L)| x                  | x              |
 | 29.4.2022 | WordNet, GermaNet (T)                    | Vector Semantics (T)                     | x                  | x              |
 | 6.5.2022  | Information Extraction (L)               | Sentiment Analysis (L)                   | x                  | x              |
 | 13.5.2022 | _no lecture_                             |                                          |                    |                |
