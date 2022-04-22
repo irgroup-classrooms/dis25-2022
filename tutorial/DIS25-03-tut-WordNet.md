@@ -7,7 +7,7 @@ Import Pandas, Numpy, NLTK and RE as in the first tutorial and import WordNet (a
 ### b) Import of "Quality-of-Life Modules"
 Many modules are not necessary, but make it easier to work with larger corpora. As in the first tutorial, import the method pandarallel (for parallelization in pandas) and initialize it with pandarallel.initialize(). You can now use parallel\_apply() instead of the pandas method apply() for parallelizable tasks.
 ### c) Importing the data
-A data set on biased words (words that carry bias or unobjective value) is provided for the WordNet tutorial. Import the data frame "data.pkl" saved as a pickle.
+A data set on biased words (words that carry bias or unobjective value) is provided for the WordNet tutorial. Import the data frame "data.pkl" saved as a pickle. (import pickle and use the "load()" method!)
 ## Task 2: Synsets
 Synsets are the meaning-distinguishable definitions of words or tokens. One application purpose is to extend the context to words with meaning equivalent words. For the given dataset, we would like to capture the synonyms to the biased words in the form of the lemmas to the associated synsets.
 ### a) Find synsets
