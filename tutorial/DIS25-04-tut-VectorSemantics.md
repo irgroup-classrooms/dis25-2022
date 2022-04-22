@@ -23,7 +23,7 @@ import gensim.downloader
 You have heard about different attributes and types of word vector models in the lecture, in this tutorial you will compare different models. Pre-trained models can be obtained in several ways:
 They can be self-trained via custom corpora, obtained via vectors (for example, from https://github.com/stanfordnlp/GloVe ) and transformed into models in Gensim, or, most straightforwardly, retrieved directly via the pre-trained models natively supported by libraries like Gensim.
 
-As a Glove model, we have already prepared for you the "Glove 6b 100" model from the source mentioned. You only need to load it as a model via the "KeyedVectors" class in Gensim:
+As a Glove model, we have already prepared for you the "Glove 6b 100" model from the source mentioned (https://th-koeln.sciebo.de/f/657059193, password is the name of this course, letters all capital, DI..5) . You only need to load it as a model via the "KeyedVectors" class in Gensim:
 
 ```python
 glove_6b_100_model = KeyedVectors.load_word2vec_format("glove.6B.100d.w2vformat.txt6", binary=False)
