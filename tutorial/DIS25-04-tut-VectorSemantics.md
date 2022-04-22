@@ -47,7 +47,7 @@ corpus = gensim.downloader.load('text8')
 from gensim.models.word2vec import Word2Vec
 word2vec = Word2Vec(corpus)
 ```
-## 2. functions of Vector Semantics.
+## 2. functions of Vector Semantics
 You should now have between one and three different vector models loaded.
 Many vector semantic operations can be applied via Gensim's Word2Vec module API (available HERE)). Don't be confused by the naming, the methods are generally applicable to vector models, not just Word2Vec.
 ### a) Find similar expressions.
@@ -75,7 +75,7 @@ Attention: You will probably have to restart your Jupyter kernel for your system
 ```python
 nlp = spacy.load('de_core_news_lg')
 ```
-### b) Similarity with SpaCy.
+### b) Similarity with SpaCy
 
 Using pandas read_csv(), load the list of single term suggestions.txt from the previous tutorial and save it as a dataframe. Add another column "city" in which you determine the similarity of the term (suggestion_ger) to the document "nlp("city")". Do the same for "politics" and "recreation" and store the similarities in meaningful the similarities in meaningful named columns. 
 Find the similarity between two texts using the ".similarity" method:
