@@ -47,11 +47,11 @@ corpus = gensim.downloader.load('text8')
 from gensim.models.word2vec import Word2Vec
 word2vec = Word2Vec(corpus)
 ```
-## 2. functions of Vector Semantics
+## 2. Functions of Vector Semantics
 You should now have between one and three different vector models loaded.
 Many vector semantic operations can be applied via Gensim's Word2Vec module API (available HERE)). Don't be confused by the naming, the methods are generally applicable to vector models, not just Word2Vec.
 ### a) Find similar expressions.
-By similar_by_word() method, determine the 10 most similar terms to the words "summer", "salad", and "python". Discuss in the group: what do you notice? Can you see any differences between the models based on larger corpora (glove.6b and glove twitter100) and the Word2Vec model you trained based on the 32MB corpus? How could the differences differences come about?
+By similar_by_word() method, determine the 10 most similar terms to the words "summer", "salad", and "python". Discuss in the group: what do you notice? Can you see any differences between the models based on larger corpora (the provided glove model) and the Word2Vec model you trained based on the 32MB corpus? How could the differences  come about?
 ### b) Relational Similarity.
 Vector semantic models can be used to infer analogies of the form "A relates to B as A* relates to ...?" as they exist in the information extracted from the corpus. Using the method most similar() (see Gensim Word2Vec module API linked in introduction to question 2), you can thus have "Paris-France+Italy" find "Rome", for example:
 
