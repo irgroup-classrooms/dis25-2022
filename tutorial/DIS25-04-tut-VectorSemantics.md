@@ -60,7 +60,7 @@ print('glove: Paris - France + Italy: ', glove_6b_100_model.most_similar(positiv
 ```
 
 Using this method, bias contained in the corpus, more precisely the vector models, can be revealed. For dichotomous features like [man,woman] or [young,old], put one of each in "positive" and "negative". Find out what the models for "doctor+woman", "housewife+man" as well as "car+sea" contain as their three next associations, choosing meaningful negatives. Discuss as a group! Can you find any other relational symmetries?
-(c) Bonus: (Sentence) Similarity.
+### c) Bonus: (Sentence) Similarity.
 The method "n_similarity([], [])" can be used to judge the similarity of two lists of tokens to each other. Can you think of a useful application example? Discuss and try!
 
 ## 3. Pre-trained German vector models and vector-similarity with SpaCy
