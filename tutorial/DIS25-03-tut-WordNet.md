@@ -11,7 +11,7 @@ A data set on biased words (words that carry bias or unobjective value) is provi
 ## Task 2: Synsets
 Synsets are the meaning-distinguishable definitions of words or tokens. One application purpose is to extend the context to words with meaning equivalent words. For the given dataset, we would like to capture the synonyms to the biased words in the form of the lemmas to the associated synsets.
 ### a) Find synsets
-Extract a list of the pairwise different biased words (column "Label_bias") from the dataset and store them in a separate list "b_words" (not in the dataframe!). 
+Extract a list of the pairwise different biased words (column "biased_words") from the dataset and store them in a separate list "b_words" (not in the dataframe!). 
 ### b) Find synonyms
 For each of the words, determine all synsets and all lemmas belonging to the synsets. Store all pairwise different lemmas for all biased words in a list "b_words_synonyms". 
 ### c) Candidates for further biased words
