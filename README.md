@@ -17,7 +17,7 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 | 15.4.2022 | _no lecture_                             |                                          |                    |                |
 | 22.4.2022 | [WordNet](slides/DIS25-03-WordNet.pdf) (L) | [Vector Semantics](slides/DIS25-04-VectorSemantics.pdf) (L)| x                  | x              |
 | 29.4.2022 | [WordNet, GermaNet](tutorial/DIS25-03-tut-WordNet.md) (T) [(solution)](tutorial/DIS25_3_solution.ipynb)                  | [Vector Semantics](tutorial/DIS25-04-tut-VectorSemantics.md) (T)   [(solution)](tutorial/DIS25_4_solution.ipynb)                  | x                  | x              |
-| 6.5.2022  | Information Extraction (L)               | Sentiment Analysis (L)                   | x                  | x              |
+| 6.5.2022  | [Information Extraction](slides/DIS25-05-infoextract.pdf) (L)               | Sentiment Analysis (L)                   | x                  | x              |
 | 13.5.2022 | _no lecture_                             |                                          |                    |                |
 | 20.5.2022 | Language Models and Ethics in NLP (L)    | Group assignment (P)                     | x                  | x              |
 | 27.5.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
