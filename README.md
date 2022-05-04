@@ -16,7 +16,7 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 | 8.4.2022  | [Basic NLP Pipeline: NLTK](tutorial/DIS25-01-tut-basicPipeline.md) (T) [(solution)](tutorial/DIS25_1_solution.ipynb)              | [Common Toolkit: Spacy](tutorial/DIS25-02-tut-SpacyNLTK.md) (T) [(solution)](tutorial/DIS25_2_solution.ipynb)         | x                  | x              |
 | 15.4.2022 | _no lecture_                             |                                          |                    |                |
 | 22.4.2022 | [WordNet](slides/DIS25-03-WordNet.pdf) (L) | [Vector Semantics](slides/DIS25-04-VectorSemantics.pdf) (L)| x                  | x              |
-| 29.4.2022 | [WordNet, GermaNet](tutorial/DIS25-03-tut-WordNet.md) (T)                   | [Vector Semantics](tutorial/DIS25-04-tut-VectorSemantics.md) (T)                     | x                  | x              |
+| 29.4.2022 | [WordNet, GermaNet](tutorial/DIS25-03-tut-WordNet.md) (T) [(solution)](tutorial/DIS25_3_solution.ipynb)                  | [Vector Semantics](tutorial/DIS25-04-tut-VectorSemantics.md) (T)   [(solution)](tutorial/DIS25_4_solution.ipynb)                  | x                  | x              |
 | 6.5.2022  | Information Extraction (L)               | Sentiment Analysis (L)                   | x                  | x              |
 | 13.5.2022 | _no lecture_                             |                                          |                    |                |
 | 20.5.2022 | Language Models and Ethics in NLP (L)    | Group assignment (P)                     | x                  | x              |
