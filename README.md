@@ -22,7 +22,7 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 | 20.5.2022 | Language Models and Ethics in NLP (L)    | Group assignment (P)                     | x                  | x              |
 | 27.5.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
 | 3.6.2022  | Data Programming for IE (L)              | Group work (P) / Oral Exam Master        | x                  | x              |
-| 10.6.2022 | Guest Lecture (L)                        | Group work (P)                           | x                  |                |
+| 10.6.2022 | [Guest Lecture: Dimitar Dimitrov](data/guest_lecture.md)(L)                        | Group work (P)                           | x                  |                |
 | 17.6.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
 | 24.6.2022 | Student talks - Project presentation (P) | Student talks - Project presentation (P) | x                  |                |
 | 31.8.2022 | Submission of term papers                |                                          | x                  |                |
