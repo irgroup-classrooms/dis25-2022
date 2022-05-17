@@ -39,7 +39,7 @@ Choose *one* of the following datasets to work on:
 
 * [Bundestags Plenarprotokolle](https://www.bundestag.de/services/opendata)
 * [Washington Post](https://github.com/irgroup/datasets/tree/master/WAPostv4) - Please sign [individual licence agreement](https://trec.nist.gov/data/wapost/Individual%20Application.pdf)
-* One of the ESUPOL dataset, like [btw17](https://zenodo.org/record/1494858#.YoOgvS8Rpqs)
+* One of the ESUPOL dataset, like [btw17](https://zenodo.org/record/1494858#.YoOgvS8Rpqs). You can find descriptions of the datasets [here](data/ESuPol_Datensätze_Übersicht.pdf)
 
 ### Topics
 
