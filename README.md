@@ -26,3 +26,26 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 | 17.6.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
 | 24.6.2022 | Student talks - Project presentation (P) | Student talks - Project presentation (P) | x                  |                |
 | 31.8.2022 | Submission of term papers                |                                          | x                  |                |
+
+## Group Assignments
+
+In the group assignments a group of four students has to work on a bias-related topic with a specific focus and on one of three datasets. In the group work phases starting on 20.5.2022 we will be available during the lecture time to help and advise. 
+
+In the presentations on 24.6.2022 you are expected to present a concept regarding your specific topic and dataset. Please decribe the motivation, the dataset, your methods and NLP pipeline, a working prototype and some first insights and results.
+
+### Datasets 
+
+Choose *one* of the following datasets to work on:
+
+* [Bundestags Plenarprotokolle](https://www.bundestag.de/services/opendata)
+* [Washington Post](https://github.com/irgroup/datasets/tree/master/WAPostv4) - Please sign [individual licence agreement](https://trec.nist.gov/data/wapost/Individual%20Application.pdf)
+* One of the ESUPOL dataset, like [btw17](https://zenodo.org/record/1494858#.YoOgvS8Rpqs)
+
+### Topics
+
+Choose *one* of the following topcis: 
+
+* Gender Bias
+* Ethical Bias
+* Non-Neutral Speech
+* Stance/ Partisanship
