@@ -47,42 +47,42 @@ Choose *one* of the following datasets to work on:
 
 Choose *one* of the following topcis: 
 
-* Gender Bias
+#### Gender Bias
 
 Gender bias is a group bias in which different genders are represented differently in terms of an aspect in a given (set of) document(s) than expected. Aspects for which there can be a bias range from quantitative measures (e.g., how many documents have male/female authors) to  more complex NLP measures (e.g., different sentiments in texts about male/female politicians or topical bias, different distributions of topics in texts geared towards male/female readers).
 
 Exaples for papers that investigate gender bias:
 
-[The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533)
+- [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533)
 
-[Does Gender Matter in the News? Detecting and Examining Gender Bias in News Articles](https://dl.acm.org/doi/10.1145/3442442.3452325)
+- [Does Gender Matter in the News? Detecting and Examining Gender Bias in News Articles](https://dl.acm.org/doi/10.1145/3442442.3452325)
 
-[Perception-Aware Bias Detection for Query Suggestions](https://link.springer.com/content/pdf/10.1007%2F978-3-030-78818-6.pdf)
+- [Perception-Aware Bias Detection for Query Suggestions](https://link.springer.com/content/pdf/10.1007%2F978-3-030-78818-6.pdf)
 
-* Ethnic Bias
+#### Ethnic Bias
 
 Like gender bias, ethnic or racial bias describes bias towards groups of people belonging to an ethnical (or religious) group. Ethnic bias includes harmful stereotypes and less blatant but still dangerous aspects like topical bias. Detecting ethnic bias is not only important because it may lead to even more severe instances of racism, and it is an infringement of the constitutional right to equal treatment.
 
 Exaples for papers that investigate ethnic bias:
 
-[Guilty by Association: Using Word Embeddings to Measure Ethnic Stereotypes in News Coverage](https://doi.org/10.1177/1077699020932304)
+- [Guilty by Association: Using Word Embeddings to Measure Ethnic Stereotypes in News Coverage](https://doi.org/10.1177/1077699020932304)
 
-* Non-Neutral Speech
+#### Non-Neutral Speech
 
 Non-neutral language consists of many aspects of language that is subjective, opinionated, or otherwise implies valuation. This includes toxicity, ranging from forms of hate speech such as racism, incivility, profane, offensive and aggressive language to over-positive praises. Non-neutral language is especially problematic when it appears in types of documents that claim to be neutral, such as wikipedia or (public) news. A related concept is framing bias, defined as the use of subjective words or phrases linked with a particular opinion.
 
 Exaples for papers that investigate non-neutral language:
 
-[A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
+- [A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
 
-[Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
+- [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
-* Stance Detection
+#### Stance Detection
 
 Stance is a concept that describes an opinion on a subject, most often in a political context. The goal of stance detection is to detect the stances of users/authors towards these subjects. Often, the subjects are known due to context (for example, abortion, weapon laws and gay marriage in political texts) or they have to be determined using approaches like entity recognition. A related concept is that of target-dependent or aspect-based sentiment analysis, in which the opinions on aspects (targets) are detected.
 
 Exaples for papers that investigate stance detection:
 
-[Stance and Sentiment in Tweets](https://dl.acm.org/doi/10.1145/3003433)
+- [Stance and Sentiment in Tweets](https://dl.acm.org/doi/10.1145/3003433)
 
-[Political Ideology and Polarization of Policy Positions: A Multi-dimensional Approach](https://arxiv.org/abs/2106.14387)
+- [Political Ideology and Polarization of Policy Positions: A Multi-dimensional Approach](https://arxiv.org/abs/2106.14387)
