@@ -19,7 +19,7 @@ The first [lectures and tutorial were recorded and are available online](https:/
 | 29.4.2022 | [WordNet, GermaNet](tutorial/DIS25-03-tut-WordNet.md) (T) [(solution)](tutorial/DIS25_3_solution.ipynb)                  | [Vector Semantics](tutorial/DIS25-04-tut-VectorSemantics.md) (T)   [(solution)](tutorial/DIS25_4_solution.ipynb)                  | x                  | x              |
 | 6.5.2022  | [Information Extraction](slides/DIS25-05-infoextract.pdf) (L)               | [Sentiment Analysis](slides/DIS25-06-sentimentAnalysis.pdf) (L)                   | x                  | x              |
 | 13.5.2022 | _no lecture_                             |                                          |                    |                |
-| 20.5.2022 | Language Models and Ethics in NLP (L)    | Group assignment (P)                     | x                  | x              |
+| 20.5.2022 | [Language Models and Ethics in NLP](slides/DIS25-07-LM-Ethics.pdf) (L)    | Group assignment (P)                     | x                  | x              |
 | 27.5.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
 | 3.6.2022  | Data Programming for IE (L)              | Group work (P) / Oral Exam Master        | x                  | x              |
 | 10.6.2022 | [Guest Lecture: Dimitar Dimitrov](data/guest_lecture.md)(L)                        | Group work (P)                           | x                  |                |
