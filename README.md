@@ -69,6 +69,7 @@ Non-neutral language consists of many aspects of language that is subjective, op
 
 Exaples for papers that investigate non-neutral language:
 
+[A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
 [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
 * Stance Detection
