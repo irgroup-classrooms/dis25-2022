@@ -8,7 +8,7 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 
 (L) Lectures; (T) Tutorials; (P) Project
 
-[Lectures and tutorial are recorded and available online](https://th-koeln.sciebo.de/s/Col70bcubHhymJx). The password is the same as for the Zoom sessions. 
+The first [lectures and tutorial were recorded and are available online](https://th-koeln.sciebo.de/s/Col70bcubHhymJx). The password is the same as for the Zoom sessions. 
 
 | Date      | Slot 13:30h                              | Slot 15:15h                              | DIS25a (DIS B.Sc.) | NLP (DS M.Sc.) |
 |-----------|------------------------------------------|------------------------------------------|--------------------|----------------|
