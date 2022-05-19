@@ -4,7 +4,7 @@ This course can be taken for the Bachelor Programm Data and Information Science 
 
 After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The sessions will be held life. Slides will be usually available a night before the actual lecture. We try to record all lectures and tutorials for later referal (not sure how this works out with the sessions at Claudiusstraße).
 
-## Schedule for Sommer Semester 2022
+## Schedule for Summer Semester 2022
 
 (L) Lectures; (T) Tutorials; (P) Project
 
@@ -27,11 +27,13 @@ After easter all sessions are hosted at TH Köln, Claudiusstraße 1. The session
 | 24.6.2022 | Student talks - Project presentation (P) | Student talks - Project presentation (P) | x                  |                |
 | 31.8.2022 | Submission of term papers                |                                          | x                  |                |
 
-## Group Assignments
+## Bachelor: Group Assignments
 
 In the group assignments a group of four students has to work on a bias-related topic with a specific focus and on one of three datasets. In the group work phases starting on 20.5.2022 we will be available during the lecture time to help and advise. 
 
-In the presentations on 24.6.2022 you are expected to present a concept regarding your specific topic and dataset. Please decribe the motivation, the dataset, your methods and NLP pipeline, a working prototype and some first insights and results.
+In the presentations on 24.6.2022 you are expected to present a _concept_ regarding your specific topic and dataset. Please decribe the _motivation_, the _dataset_, your _methods_ and _NLP pipeline_, a _working prototype_ and some _first insights and results_.
+
+The feedback gathered during the presentation should be used to write a final term paper on your specific topic and work. Please read the [guidelines for the term paper](term-paper.md). 
 
 ### Datasets 
 
