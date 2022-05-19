@@ -52,7 +52,9 @@ Gender bias is a group bias in which different genders are represented different
 Exaples for papers that investigate gender bias:
 
 [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533)
+
 [Does Gender Matter in the News? Detecting and Examining Gender Bias in News Articles](https://dl.acm.org/doi/10.1145/3442442.3452325)
+
 [Perception-Aware Bias Detection for Query Suggestions](https://link.springer.com/content/pdf/10.1007%2F978-3-030-78818-6.pdf)
 
 * Ethnic Bias
@@ -70,6 +72,7 @@ Non-neutral language consists of many aspects of language that is subjective, op
 Exaples for papers that investigate non-neutral language:
 
 [A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
+
 [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
 * Stance Detection
@@ -79,4 +82,5 @@ Stance is a concept that describes an opinion on a subject, most often in a poli
 Exaples for papers that investigate stance detection:
 
 [Stance and Sentiment in Tweets](https://dl.acm.org/doi/10.1145/3003433)
+
 [Political Ideology and Polarization of Policy Positions: A Multi-dimensional Approach](https://arxiv.org/abs/2106.14387)
