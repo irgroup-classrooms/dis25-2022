@@ -24,14 +24,14 @@ The first [lectures and tutorial were recorded and are available online](https:/
 | 3.6.2022  | Data Programming for IE (L)              | Group work (P) / Oral Exam Master        | x                  | x              |
 | 10.6.2022 | [Guest Lecture: Dimitar Dimitrov](data/guest_lecture.md)(L)                        | Group work (P)                           | x                  |                |
 | 17.6.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
-| 24.6.2022 | Student talks - Project presentation (P) | Student talks - Project presentation (P) | x                  |                |
+| 24.6.2022 | [Student talks - Project presentation](presentations.md) (P) | Student talks - Project presentation (P) | x                  |                |
 | 31.8.2022 | Submission of term papers                |                                          | x                  |                |
 
 ## Bachelor: Group Assignments
 
 In the group assignments a group of four students has to work on a bias-related topic with a specific focus and on one of three datasets. In the group work phases starting on 20.5.2022 we will be available during the lecture time to help and advise. 
 
-In the presentations on 24.6.2022 you are expected to present a _concept_ regarding your specific topic and dataset. Please decribe the _motivation_, the _dataset_, your _methods_ and _NLP pipeline_, a _working prototype_ and some _first insights and results_.
+In the [presentations on 24.6.2022]((presentations.md)) you are expected to present a _concept_ regarding your specific topic and dataset. Please decribe the _motivation_, the _dataset_, your _methods_ and _NLP pipeline_, a _working prototype_ and some _first insights and results_.
 
 The feedback gathered during the presentation should be used to write a final term paper on your specific topic and work. Please read the [guidelines for the term paper](term-paper.md). 
 
