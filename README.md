@@ -31,7 +31,7 @@ The first [lectures and tutorial were recorded and are available online](https:/
 
 In the group assignments a group of four students has to work on a bias-related topic with a specific focus and on one of three datasets. In the group work phases starting on 20.5.2022 we will be available during the lecture time to help and advise. 
 
-In the [presentations on 24.6.2022]((presentations.md)) you are expected to present a _concept_ regarding your specific topic and dataset. Please decribe the _motivation_, the _dataset_, your _methods_ and _NLP pipeline_, a _working prototype_ and some _first insights and results_.
+In the [presentations on 24.6.2022](presentations.md) you are expected to present a _concept_ regarding your specific topic and dataset. Please decribe the _motivation_, the _dataset_, your _methods_ and _NLP pipeline_, a _working prototype_ and some _first insights and results_.
 
 The feedback gathered during the presentation should be used to write a final term paper on your specific topic and work. Please read the [guidelines for the term paper](term-paper.md). 
 
