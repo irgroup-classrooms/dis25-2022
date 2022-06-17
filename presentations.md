@@ -24,5 +24,5 @@ Based on our group work, your group has to give a milestone presentations.
 - 15:30 The Bolean Business
 - 15:45 Datenkrake
 - 16:00 Die Ohnehosen
-- 16:15 "NoName"
+- 16:15 NLP_oker
 - 16:30 Outlook and farewell
