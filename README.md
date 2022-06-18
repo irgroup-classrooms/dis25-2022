@@ -21,7 +21,7 @@ The first [lectures and tutorial were recorded and are available online](https:/
 | 13.5.2022 | _no lecture_                             |                                          |                    |                |
 | 20.5.2022 | [Language Models and Ethics in NLP](slides/DIS25-07-LM-Ethics.pdf) (L)    | Group assignment (P)                     | x                  | x              |
 | 27.5.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
-| 3.6.2022  | Data Programming for IE (L)              | Group work (P) / Oral Exam Master        | x                  | x              |
+| 3.6.2022  | [Data Programming for IE](slides/DIS25-08-data-prog.pdf) / [Demo](https://www.snorkel.org/use-cases/01-spam-tutorial) (L)              | Group work (P) / Oral Exam Master        | x                  | x              |
 | 10.6.2022 | [Guest Lecture: Dimitar Dimitrov](data/guest_lecture.md)(L)                        | Group work (P)                           | x                  |                |
 | 17.6.2022 | Group work (P)                           | Group work (P)                           | x                  |                |
 | 24.6.2022 | [Student talks - Project presentation](presentations.md) (P) | Student talks - Project presentation (P) | x                  |                |
