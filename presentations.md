@@ -26,3 +26,18 @@ Based on our group work, your group has to give a milestone presentations.
 - 16:00 Die Ohnehosen
 - 16:15 NLP_oker
 - 16:30 Outlook and farewell
+
+## Scores
+
+All groups received their personal and detailed feedback on 24 June 2022 and the following scores:
+
+- First: 35/40
+- Katze 38/40
+- MüssenWirÜberlegen: 37/40
+- Information Revival Group: 38/40
+- The Git Gang Theory: 40/40
+- Powerpuff: 31/40
+- The Bolean Business: 32/40
+- Datenkrake: 32/40
+- Die Ohnehosen: 32/40
+- NLP_oker: 31/40
