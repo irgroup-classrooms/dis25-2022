@@ -37,7 +37,7 @@ All groups received their personal and detailed feedback on 24 June 2022 and the
 - Information Revival Group: 38/40
 - The Git Gang Theory: 40/40
 - Powerpuff: 31/40
-- The Bolean Business: 32/40
+- The Bolean Business: 35/40
 - Datenkrake: 32/40
 - Die Ohnehosen: 32/40
 - NLP_oker: 31/40
